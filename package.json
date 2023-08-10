@@ -1,0 +1,27 @@
+{
+  "name": "weatherAJ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayushi Jain",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secret-Ayu/weather-lens.git"
+  },
+  "bugs": {
+    "url": "https://github.com/secret-Ayu/weather-lens/issues"
+  },
+  "homepage": "https://github.com/secret-Ayu/weather-lens#readme"
+}
